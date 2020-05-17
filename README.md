@@ -17,3 +17,7 @@ can also be specified (set to -10, 10 by default).
 as 'sqrt'.
 
 <i>Examples</i>: 
+
+<img src="https://puu.sh/FLqko/d2ce693fd6.png" width="40%">
+
+<img src="https://puu.sh/FLqnA/697b9738fc.png" width="40%">
