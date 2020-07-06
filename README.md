@@ -1,9 +1,7 @@
-# python-projects
-A collection of various Python projects created.
+# Functions Graphing Calculator
 
-Free to use for anybody interested.
-
-List of projects:
+A simple GUI to allow for the user to input two functions of their choice plotted from a range of values.
+This allows the user to compare and contrast function transformations.
 
 ---
 
